@@ -16,5 +16,23 @@
         "info": "Another quirky beginner's guide is Mr. Neighborly's Humble Little Ruby Book by Jeremy McAnally. This one is a little more conventional than the Poignant Guide, but still contains a strong authorial voice.",
         "url": "http://humblelittlerubybook.com",
         "cover": "img/humble.jpg"
+    },
+    {
+        "title": "Learn to Program",
+        "author": "Mr. Neighborly",
+        "authorUrl": "http://pine.fm/LearnToProgram/",
+        "level": "Easy",
+        "info": "Learn to Program by Chris Pine is a popular beginner's book on programming that centers using Ruby as its starter language.",
+        "url": "http://pine.fm/LearnToProgram/",
+        "cover": "img/learntoprogram.jpg"
+    },
+    {
+        "title": "Computer Science Programming Basics in Ruby",
+        "author": "O'Reilly Media",
+        "authorUrl": "http://it-ebooks.info/book/2262/",
+        "level": "Modarate",
+        "info": "f you know basic high-school math, you can quickly learn and apply the core concepts of computer science with this concise, hands-on book. Led by a team of experts, you'll quickly understand the difference between computer science and computer programming, and you'll learn how algorithms help you solve computing problems.",
+        "url": "http://it-ebooks.info/book/2262//",
+        "cover": "img/computer_science.jpg"
     }
 ]}
