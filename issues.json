@@ -7,5 +7,14 @@
         "info": "Ruby Best Practices is for programmers who want to use Ruby as experienced Rubyists do. Written by the developer of the Ruby project Prawn, this book explains how to design beautiful APIs and domain-specific languages with Ruby, as well as how to work with functional programming ideas and techniques that can simplify your code and make you more productive.",
         "url": "http://blog.rubybestpractices.com/posts/gregory/022-rbp-now-open.html",
         "cover": "img/cover_RubyBestPractices.png"
+    },
+    {
+        "title": "Mr. Neighborly's Humble Little Ruby Book",
+        "author": "Mr. Neighborly",
+        "authorUrl": "http://humblelittlerubybook.com",
+        "level": "Easy",
+        "info": "Another quirky beginner's guide is Mr. Neighborly's Humble Little Ruby Book by Jeremy McAnally. This one is a little more conventional than the Poignant Guide, but still contains a strong authorial voice.",
+        "url": "http://humblelittlerubybook.com",
+        "cover": "img/humble.jpg"
     }
 ]}
