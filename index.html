@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <title>RubyBooks - Learn Ruby for Free</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="RubyBooks showcase the bests free ebooks about the Ruby programming language. The easiest way to learn Ruby for free!">
+
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu&amp;subset=latin" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Gentium+Book+Basic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="./css/pythonbooks.css?2908" media="all">
+
+    <!--[if lt IE 9]> <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script> <![endif]-->
+
+    <link rel="shortcut icon" href="./img/ico/favicon.ico">
+
+    <!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./img/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./img/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./img/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="./assets/ico/apple-touch-icon-57-precomposed.png"> -->
+</head>
+
+<body>
+
+    <a href="https://github.com/seyhunak/rubybooks" target='_blank' class="github"><img src="https://s3.amazonaws.com/github/ribbons/forkme_left_white_ffffff.png" alt="Fork me on GitHub"></a>
+
+    <!-- ==========================
+    NAVBAR
+    =========================== -->
+    <div class="navbar navbar-fixed-top pbhead">
+        <img src="./img/logo.png" alt="python tutorials" width="300" height="50">
+        <h1>The best free Ruby resources</h1>
+        <ul>
+            <li>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-text="Here are the best Ruby resources to learn #ruby for free ! #ruby #rails http://rubybooks.github.io" data-lang='en'></a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+            </li>
+        </ul>
+    </div>
+
+    <div class="container">
+        <!-- ///////// BOOKS -->
+        <div class="row" id="issueswrap"></div>
+    </div>
+
+    <!-- ==========================
+    FOOTER
+    =========================== -->
+    <div class="footer">
+        We are the Ruby developers. We love Ruby. Contact us and say hi.
+        <hr>
+        Seyhun Akyurek / seyhunak+hi@gmail.com - twitter.com/seyhunak &
+        Eyüp Atış  / eyupatis+hi@gmail.com - twitter.com/eyupatis
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="./js/mustache.js"></script>
+
+    <script type="text/javascript">
+
+    function randOrd(){
+      return (Math.round(Math.random())-0.5);
+    }
+
+    $(document).ready(function() {
+      $.getJSON('./issues.json?' + Math.random(), function(data) {
+        var template = $('#booktpl').html();
+        data.books.sort(randOrd);
+        var html = Mustache.to_html(template, data);
+        $('#issueswrap').html(html);
+      });
+      $('#mod_infos').hide();
+      $('a.#infos').on('click', function(){
+          $('#mod_infos').slideToggle();
+      });
+    });
+    </script>
+
+    <script id="booktpl" type="text/template">
+        {{#books}}
+         <div class="span4 booksection">
+          <a target="_blank" href="{{url}}">
+            <div class="view"></div>
+            <div title="{{ title }}" id="cover" style="background:black url('{{cover}}') no-repeat center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;">
+            </div>
+            <h2 title="{{ title }}">{{title}}</h2>
+          </a>
+          <h3><a href="{{authorUrl}}" target="_blank">{{author}}</a></h3>
+          <p class="level">{{level}}</p>
+          <p class="description">{{info}}</p>
+        </div>
+        {{/books}}
+    </script>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+        <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-294393-1");
+        pageTracker._trackPageview();
+    } catch(err) {}</script>
+
+  </body>
+
+      <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-41665348-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+</html>

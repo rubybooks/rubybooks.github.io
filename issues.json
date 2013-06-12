@@ -1,0 +1,11 @@
+{ "books" : [
+    {
+        "title": "Ruby Best Practices",
+        "author": "Gregory Brown",
+        "authorUrl": "http://blog.rubybestpractices.com/",
+        "level": "Modarate",
+        "info": "Ruby Best Practices is for programmers who want to use Ruby as experienced Rubyists do. Written by the developer of the Ruby project Prawn, this book explains how to design beautiful APIs and domain-specific languages with Ruby, as well as how to work with functional programming ideas and techniques that can simplify your code and make you more productive.",
+        "url": "http://blog.rubybestpractices.com/posts/gregory/022-rbp-now-open.html",
+        "cover": "img/cover_RubyBestPractices.png"
+    }
+]}
