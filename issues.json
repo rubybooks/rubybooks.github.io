@@ -32,7 +32,16 @@
         "authorUrl": "http://it-ebooks.info/book/2262/",
         "level": "Modarate",
         "info": "f you know basic high-school math, you can quickly learn and apply the core concepts of computer science with this concise, hands-on book. Led by a team of experts, you'll quickly understand the difference between computer science and computer programming, and you'll learn how algorithms help you solve computing problems.",
-        "url": "http://it-ebooks.info/book/2262//",
+        "url": "http://it-ebooks.info/book/2262/",
         "cover": "img/computer_science.jpg"
+    },
+    {
+        "title": "Ruby on Rails Tutorial: Learn Web Development with Rails (2nd edition)",
+        "author": "Michael Hartl",
+        "authorUrl": "http://ruby.railstutorial.org/",
+        "level": "Modarate",
+        "info": "he Ruby on Rails Tutorial, 2nd Edition book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats).",
+        "url": "http://ruby.railstutorial.org/",
+        "cover": "img/railstutorial.png"
     }
 ]}
