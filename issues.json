@@ -79,5 +79,23 @@
         "info": "This extensive guide was written by Ian McDonald as he campaigned for Ruby to be adopted by Google. It's written for those who are already familiar with scripting languages (presumably, Ruby's rivals) but contains wise guidelines on writing legible code.",
         "url": "http://www.caliban.org/ruby/rubyguide.shtml",
         "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "Ruby Essentials",
+        "author": "Neil Smyth",
+        "authorUrl": "http://www.techotopia.com/index.php/Ruby_Essentials",
+        "level": "Modarate",
+        "info": "Ruby Essentials is a free on-line book designed to provide a concise and easy to follow guide to learning Ruby. Everything from installing Ruby and the basics of the language through to topics such as arrays, file handling and object-oriented programming are covered, all combined with easy to understand code examples which serve to bridge the gap between theory and practice.",
+        "url": "http://www.techotopia.com/index.php/Ruby_Essentials",
+        "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "Ruby Essentials",
+        "author": "Mislav Marohnić",
+        "authorUrl": "http://mislav.uniqpath.com/poignant-guide/",
+        "level": "Beginner",
+        "info": "This book is a poignant guide to Ruby. That means code so beautiful that tears are shed. That means gallant tales and somber truths that have you waking up the next morning in the arms of this book.",
+        "url": "http://mislav.uniqpath.com/poignant-guide/",
+        "cover": "img/2007-cover-shut.jpg"
     }
 ]}
