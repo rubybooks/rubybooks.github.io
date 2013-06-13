@@ -90,12 +90,21 @@
         "cover": "img/placeholder.gif"
     },
     {
-        "title": "Ruby Essentials",
+        "title": "Why's (Poignant) Guide to Ruby",
         "author": "Mislav Marohnić",
         "authorUrl": "http://mislav.uniqpath.com/poignant-guide/",
         "level": "Beginner",
         "info": "This book is a poignant guide to Ruby. That means code so beautiful that tears are shed. That means gallant tales and somber truths that have you waking up the next morning in the arms of this book.",
         "url": "http://mislav.uniqpath.com/poignant-guide/",
         "cover": "img/2007-cover-shut.jpg"
+    },
+    {
+        "title": "The Bastards Book of Ruby",
+        "author": "Dan Nguyen",
+        "authorUrl": "danwin.com",
+        "level": "Beginner",
+        "info": "The Bastards Book of Ruby is an introduction to programming and its practical uses for journalists, researchers, scientists, analysts, and anyone else whose job is to seek out, make sense from, and show the hard-to-find data.",
+        "url": "http://ruby.bastardsbook.com/",
+        "cover": "img/bastardbook.jpg"
     }
 ]}
