@@ -40,8 +40,17 @@
         "author": "Michael Hartl",
         "authorUrl": "http://ruby.railstutorial.org/",
         "level": "Modarate",
-        "info": "he Ruby on Rails Tutorial, 2nd Edition book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats).",
+        "info": "The Ruby on Rails Tutorial, 2nd Edition book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats).",
         "url": "http://ruby.railstutorial.org/",
         "cover": "img/railstutorial.png"
+    },
+    {
+        "title": "The Little Book Of Ruby",
+        "author": "Huw Collingbourne",
+        "authorUrl": "http://www.sapphiresteel.com/The-Little-Book-Of-Ruby",
+        "level": "Beginner",
+        "info": "The Little Book Of Ruby is a PDF eBook which will guide you through the fundamentals of Ruby programming. Starting with the basics (strings, numbers, objects and methods) it quickly moves on to explain all you need to know to create your own class hierarchies, use arrays, hashes, iterators, modules, mixins and much more besides…",
+        "url": "http://www.sapphiresteel.com/The-Little-Book-Of-Ruby",
+        "cover": "img/littlebook_onsite_logo.gif"
     }
 ]}
