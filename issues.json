@@ -52,5 +52,14 @@
         "info": "Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages. In this document, you'll find an implementation of the Solutions of the Perl Cookbook in the Ruby language.",
         "url": "http://pleac.sourceforge.net/pleac_ruby/index.html",
         "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "Why Ruby?",
+        "author": "David Hansson",
+        "authorUrl": "http://david.heinemeierhansson.com/",
+        "level": "Beginner",
+        "info": "In this recent lecture from Ruby Conf 2010, David Hansson, the creator of Ruby on Rails, focuses less on coding techniques, and more on the Ruby philosophy, in general. What makes a language like Ruby preferable to its peers? David provides his answer.",
+        "url": "http://net.tutsplus.com/articles/lectures/why-ruby/",
+        "cover": "img/why_ruby.jpg"
     }
 ]}
