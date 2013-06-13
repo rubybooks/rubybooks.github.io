@@ -106,5 +106,14 @@
         "info": "The Bastards Book of Ruby is an introduction to programming and its practical uses for journalists, researchers, scientists, analysts, and anyone else whose job is to seek out, make sense from, and show the hard-to-find data.",
         "url": "http://ruby.bastardsbook.com/",
         "cover": "img/bastardbook.jpg"
+    },
+    {
+        "title": "Learning With Ruby",
+        "author": "Elizabeth Wiethoff",
+        "authorUrl": "http://mysite.verizon.net/hpassel/thinkruby/book/index.html",
+        "level": "Beginner",
+        "info": "It is my hope that How To Think Like a Computer Scientist: Learning With Ruby will fill a niche sadly not filled by most other online Ruby resources. I hope that How To Think… will be suitable for beginning programmers looking for more than a quickie tutorial.",
+        "url": "http://mysite.verizon.net/hpassel/thinkruby/book/index.html",
+        "cover": "img/placeholder.gif"
     }
 ]}
