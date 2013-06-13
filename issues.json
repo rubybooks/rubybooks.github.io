@@ -45,6 +45,15 @@
         "cover": "img/railstutorial.png"
     },
     {
+        "title": "The Little Book Of Ruby",
+        "author": "Huw Collingbourne",
+        "authorUrl": "http://www.sapphiresteel.com/The-Little-Book-Of-Ruby",
+        "level": "Beginner",
+        "info": "The Little Book Of Ruby is a PDF eBook which will guide you through the fundamentals of Ruby programming. Starting with the basics (strings, numbers, objects and methods) it quickly moves on to explain all you need to know to create your own class hierarchies, use arrays, hashes, iterators, modules, mixins and much more besides…",
+        "url": "http://www.sapphiresteel.com/The-Little-Book-Of-Ruby",
+        "cover": "img/littlebook_onsite_logo.gif"
+    },
+    {
         "title": "PLEAC-Ruby",
         "author": "Pleac Project",
         "authorUrl": "http://pleac.sourceforge.net/",
