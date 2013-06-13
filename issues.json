@@ -61,5 +61,14 @@
         "info": "In this recent lecture from Ruby Conf 2010, David Hansson, the creator of Ruby on Rails, focuses less on coding techniques, and more on the Ruby philosophy, in general. What makes a language like Ruby preferable to its peers? David provides his answer.",
         "url": "http://net.tutsplus.com/articles/lectures/why-ruby/",
         "cover": "img/why_ruby.jpg"
+    },
+    {
+        "title": "Google's Unofficial Ruby Usage Guide",
+        "author": "Google",
+        "authorUrl": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "level": "Beginner",
+        "info": "This extensive guide was written by Ian McDonald as he campaigned for Ruby to be adopted by Google. It's written for those who are already familiar with scripting languages (presumably, Ruby's rivals) but contains wise guidelines on writing legible code.",
+        "url": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "cover": "img/placeholder.gif"
     }
 ]}
