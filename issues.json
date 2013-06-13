@@ -50,6 +50,6 @@
         "authorUrl": "http://pleac.sourceforge.net/",
         "level": "Beginner",
         "info": "Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages. In this document, you'll find an implementation of the Solutions of the Perl Cookbook in the Ruby language.",
-        "cover": "placeholder.gif"
+        "cover": "img/placeholder.gif"
     }
 ]}
