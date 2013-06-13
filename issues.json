@@ -12,7 +12,7 @@
         "title": "Mr. Neighborly's Humble Little Ruby Book",
         "author": "Mr. Neighborly",
         "authorUrl": "http://humblelittlerubybook.com",
-        "level": "Easy",
+        "level": "Beginner",
         "info": "Another quirky beginner's guide is Mr. Neighborly's Humble Little Ruby Book by Jeremy McAnally. This one is a little more conventional than the Poignant Guide, but still contains a strong authorial voice.",
         "url": "http://humblelittlerubybook.com",
         "cover": "img/humble.jpg"
@@ -21,7 +21,7 @@
         "title": "Learn to Program",
         "author": "Mr. Neighborly",
         "authorUrl": "http://pine.fm/LearnToProgram/",
-        "level": "Easy",
+        "level": "Beginner",
         "info": "Learn to Program by Chris Pine is a popular beginner's book on programming that centers using Ruby as its starter language.",
         "url": "http://pine.fm/LearnToProgram/",
         "cover": "img/learntoprogram.jpg"
@@ -40,8 +40,16 @@
         "author": "Michael Hartl",
         "authorUrl": "http://ruby.railstutorial.org/",
         "level": "Modarate",
-        "info": "he Ruby on Rails Tutorial, 2nd Edition book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats).",
+        "info": "The Ruby on Rails Tutorial, 2nd Edition book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats).",
         "url": "http://ruby.railstutorial.org/",
         "cover": "img/railstutorial.png"
+    },
+    {
+        "title": "PLEAC-Ruby",
+        "author": "Pleac Project",
+        "authorUrl": "http://pleac.sourceforge.net/",
+        "level": "Beginner",
+        "info": "Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages. In this document, you'll find an implementation of the Solutions of the Perl Cookbook in the Ruby language.",
+        "cover": "placeholder.gif"
     }
 ]}
