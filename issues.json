@@ -70,5 +70,14 @@
         "info": "This extensive guide was written by Ian McDonald as he campaigned for Ruby to be adopted by Google. It's written for those who are already familiar with scripting languages (presumably, Ruby's rivals) but contains wise guidelines on writing legible code.",
         "url": "http://www.caliban.org/ruby/rubyguide.shtml",
         "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "The Bastards Book of Ruby",
+        "author": "Dan Nguyen",
+        "authorUrl": "danwin.com",
+        "level": "Beginner",
+        "info": "The Bastards Book of Ruby is an introduction to programming and its practical uses for journalists, researchers, scientists, analysts, and anyone else whose job is to seek out, make sense from, and show the hard-to-find data.",
+        "url": "http://ruby.bastardsbook.com/",
+        "cover": "img/bastardbook.jpg"
     }
 ]}
