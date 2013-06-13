@@ -52,5 +52,14 @@
         "info": "Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages. In this document, you'll find an implementation of the Solutions of the Perl Cookbook in the Ruby language.",
         "url": "http://pleac.sourceforge.net/pleac_ruby/index.html",
         "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "Google's Unofficial Ruby Usage Guide",
+        "author": "Google",
+        "authorUrl": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "level": "Beginner",
+        "info": "This extensive guide was written by Ian McDonald as he campaigned for Ruby to be adopted by Google. It's written for those who are already familiar with scripting languages (presumably, Ruby's rivals) but contains wise guidelines on writing legible code.",
+        "url": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "cover": "img/placeholder.gif"
     }
 ]}
