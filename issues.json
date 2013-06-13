@@ -12,7 +12,7 @@
         "title": "Mr. Neighborly's Humble Little Ruby Book",
         "author": "Mr. Neighborly",
         "authorUrl": "http://humblelittlerubybook.com",
-        "level": "Easy",
+        "level": "Beginner",
         "info": "Another quirky beginner's guide is Mr. Neighborly's Humble Little Ruby Book by Jeremy McAnally. This one is a little more conventional than the Poignant Guide, but still contains a strong authorial voice.",
         "url": "http://humblelittlerubybook.com",
         "cover": "img/humble.jpg"
@@ -21,7 +21,7 @@
         "title": "Learn to Program",
         "author": "Mr. Neighborly",
         "authorUrl": "http://pine.fm/LearnToProgram/",
-        "level": "Easy",
+        "level": "Beginner",
         "info": "Learn to Program by Chris Pine is a popular beginner's book on programming that centers using Ruby as its starter language.",
         "url": "http://pine.fm/LearnToProgram/",
         "cover": "img/learntoprogram.jpg"
@@ -52,5 +52,32 @@
         "info": "The Little Book Of Ruby is a PDF eBook which will guide you through the fundamentals of Ruby programming. Starting with the basics (strings, numbers, objects and methods) it quickly moves on to explain all you need to know to create your own class hierarchies, use arrays, hashes, iterators, modules, mixins and much more besides…",
         "url": "http://www.sapphiresteel.com/The-Little-Book-Of-Ruby",
         "cover": "img/littlebook_onsite_logo.gif"
+    },
+    {
+        "title": "PLEAC-Ruby",
+        "author": "Pleac Project",
+        "authorUrl": "http://pleac.sourceforge.net/",
+        "level": "Beginner",
+        "info": "Following the Perl Cookbook (by Tom Christiansen and Nathan Torkington, published by O'Reilly) spirit, the PLEAC Project aims to gather fans of programming, in order to implement the solutions in other programming languages. In this document, you'll find an implementation of the Solutions of the Perl Cookbook in the Ruby language.",
+        "url": "http://pleac.sourceforge.net/pleac_ruby/index.html",
+        "cover": "img/placeholder.gif"
+    },
+    {
+        "title": "Why Ruby?",
+        "author": "David Hansson",
+        "authorUrl": "http://david.heinemeierhansson.com/",
+        "level": "Beginner",
+        "info": "In this recent lecture from Ruby Conf 2010, David Hansson, the creator of Ruby on Rails, focuses less on coding techniques, and more on the Ruby philosophy, in general. What makes a language like Ruby preferable to its peers? David provides his answer.",
+        "url": "http://net.tutsplus.com/articles/lectures/why-ruby/",
+        "cover": "img/why_ruby.jpg"
+    },
+    {
+        "title": "Google's Unofficial Ruby Usage Guide",
+        "author": "Google",
+        "authorUrl": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "level": "Beginner",
+        "info": "This extensive guide was written by Ian McDonald as he campaigned for Ruby to be adopted by Google. It's written for those who are already familiar with scripting languages (presumably, Ruby's rivals) but contains wise guidelines on writing legible code.",
+        "url": "http://www.caliban.org/ruby/rubyguide.shtml",
+        "cover": "img/placeholder.gif"
     }
 ]}
